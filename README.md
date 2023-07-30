@@ -2,9 +2,9 @@
 
 This is a responsive static Web page and the purpose of this site is to complete an assignment for the Front-end Developer Intern role.
 
-# Built using - HTML, CSS, JavaScript, React.js (CoreUI, MaterialUI)
+## Built using - HTML, CSS, JavaScript, React.js (CoreUI, MaterialUI)
 
-# Preview - https://64c605ad7331c057d0625d0b--mellow-granita-76f86e.netlify.app/
+## Preview - https://64c605ad7331c057d0625d0b--mellow-granita-76f86e.netlify.app/
 
 
 # Getting Started with Create React App
