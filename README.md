@@ -1,3 +1,12 @@
+# Elevate Assignment 
+
+This is a responsive static Web page and the purpose of this site is to complete an assignment for the Front-end Developer Intern role.
+
+# Built using - HTML, CSS, JavaScript, React.js (CoreUI, MaterialUI)
+
+# Preview - https://64c605ad7331c057d0625d0b--mellow-granita-76f86e.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -57,14 +66,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Live Preview - https://64c605ad7331c057d0625d0b--mellow-granita-76f86e.netlify.app/
