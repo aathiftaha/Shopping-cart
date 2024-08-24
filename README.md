@@ -1,4 +1,4 @@
-# Elevate Assignment 
+ 
 
 This is a responsive static Web page and the purpose of this site is to complete an assignment for the Front-end Developer Intern role.
 
